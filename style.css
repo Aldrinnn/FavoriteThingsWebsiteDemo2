@@ -1,1 +1,8 @@
-
+*{
+	text-align: center;
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLJ8O0EhVzhUOeOVo7Iq3c8ox7biUpelEKmbNzeyhlhT7z17HwXw);
+	color: white;
+}
+iframe{
+	margin: 10px;
+}
